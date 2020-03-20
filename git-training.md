@@ -9,6 +9,7 @@ Covering the basics
 - [] Git branch
 - [] Git push
 - [] Git log
-- [] Git hub
 - [] Github Desktop
 
+New Paragraph
+- [x] Added New Paragraph in branch.
